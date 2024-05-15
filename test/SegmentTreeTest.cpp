@@ -1,4 +1,4 @@
-#include "../include/algorithms/SegmentTree.h"
+#include "../include/data_structure/SegmentTree.h"
 #include <iostream>
 
 int main() {

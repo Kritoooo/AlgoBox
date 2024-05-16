@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "include/CMakeFiles/StlModule.dir/stl.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "stl",
+          "source-path": "/home/gemini/code/AlgoBox/include/stl.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

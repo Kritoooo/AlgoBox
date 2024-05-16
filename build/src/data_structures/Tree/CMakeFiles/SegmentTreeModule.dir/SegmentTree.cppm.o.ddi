@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "src/data_structures/Tree/CMakeFiles/SegmentTreeModule.dir/SegmentTree.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "segmentree",
+          "source-path": "/home/gemini/code/AlgoBox/src/data_structures/Tree/SegmentTree.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "stl"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

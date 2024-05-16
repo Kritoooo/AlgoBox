@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "src/data_structures/Tree/CMakeFiles/SegmentTreeModule.dir/SegmentTree.cpp.o",
+      "requires": [
+        {
+          "logical-name": "segmentree"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : 
+	{
+		"include/CMakeFiles/StlModule.dir/stl.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/gemini/code/AlgoBox/include/stl.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"dir-cur-bld" : "/home/gemini/code/AlgoBox/build/include",
+	"dir-cur-src" : "/home/gemini/code/AlgoBox/include",
+	"dir-top-bld" : "/home/gemini/code/AlgoBox/build",
+	"dir-top-src" : "/home/gemini/code/AlgoBox",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/gemini/code/AlgoBox/build/include/CMakeFiles/StlModule.dir"
+}

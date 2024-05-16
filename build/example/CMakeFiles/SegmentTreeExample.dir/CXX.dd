@@ -1,5 +1,0 @@
-ninja_dyndep_version = 1.0
-build example/CMakeFiles/SegmentTreeExample.dir/SegmentTreeExample.cpp.o: dyndep | src/data_structures/Tree/CMakeFiles/SegmentTreeModule.dir/segmentree.pcm include/CMakeFiles/StlModule.dir/stl.pcm
-
-build example/CMakeFiles/SegmentTreeExample.dir/__/src/data_structures/Tree/SegmentTree.cpp.o: dyndep | src/data_structures/Tree/CMakeFiles/SegmentTreeModule.dir/segmentree.pcm
-
